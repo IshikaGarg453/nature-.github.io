@@ -1,0 +1,16 @@
+body{
+ background-image: url("aboutus.jpg");
+ background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+ color: maroon;;
+}
+h2{
+ text-align: center;
+}
+.one
+{
+ padding-bottom: 10px;
+text-align: center;
+}

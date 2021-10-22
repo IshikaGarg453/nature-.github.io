@@ -1,0 +1,21 @@
+body{
+ background-image: url("contactus.jpg") ;
+ background-repeat: no-repeat;
+background-size:cover;
+
+}
+ol{
+ font-size: 30px;
+color:darkred;
+font-style: inherit;
+}
+
+}
+ol li{
+ font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;}
+
+a:hover {
+ background-color: yellow;
+text-align: center;
+}
